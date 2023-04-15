@@ -1,4 +1,4 @@
-num = 15468
+num = int(intput("enter number:"))
 
 order = len(str(num))
 sum = 0
